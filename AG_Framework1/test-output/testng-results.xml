@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-26T10:54:08 IST" name="Suite" finished-at="2021-10-26T10:54:58 IST" duration-ms="49346">
+    <groups>
+    </groups>
+    <test started-at="2021-10-26T10:54:08 IST" name="Test1" finished-at="2021-10-26T10:54:41 IST" duration-ms="32193">
+      <class name="GoogleTest.TS002">
+        <test-method signature="STEP02()[pri:0, instance:GoogleTest.TS002@6d3a388c]" started-at="2021-10-26T10:54:08 IST" name="STEP02" finished-at="2021-10-26T10:54:36 IST" duration-ms="28014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- STEP02 -->
+        <test-method is-config="true" signature="BrowserClose()[pri:0, instance:GoogleTest.TS002@6d3a388c]" started-at="2021-10-26T10:54:36 IST" name="BrowserClose" finished-at="2021-10-26T10:54:41 IST" duration-ms="4148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+      </class> <!-- GoogleTest.TS002 -->
+    </test> <!-- Test1 -->
+    <test started-at="2021-10-26T10:54:41 IST" name="Test2" finished-at="2021-10-26T10:54:58 IST" duration-ms="17103">
+      <class name="GoogleTest.TS003">
+        <test-method signature="STEP03()[pri:0, instance:GoogleTest.TS003@73e22a3d]" started-at="2021-10-26T10:54:41 IST" name="STEP03" finished-at="2021-10-26T10:54:54 IST" duration-ms="12953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- STEP03 -->
+        <test-method is-config="true" signature="BrowserClose()[pri:0, instance:GoogleTest.TS003@73e22a3d]" started-at="2021-10-26T10:54:54 IST" name="BrowserClose" finished-at="2021-10-26T10:54:58 IST" duration-ms="4147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+      </class> <!-- GoogleTest.TS003 -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
